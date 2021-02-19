@@ -6,3 +6,7 @@
 
 ### Linter
 [![flake8](https://github.com/meet39/python-project-lvl1/actions/workflows/flake8.yml/badge.svg)](https://github.com/meet39/python-project-lvl1/actions/workflows/flake8.yml)
+
+### Demo "Brain Even" 
+[![asciicast](https://asciinema.org/a/qwfWhhhtOuPbCTHLpvbyF5fsi.svg)](https://asciinema.org/a/qwfWhhhtOuPbCTHLpvbyF5fsi)
+
