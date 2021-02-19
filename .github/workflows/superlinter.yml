@@ -22,5 +22,6 @@ jobs:
         poetry install
     - name: run linter flake8
       run: |
+        cat Makefile
         make lint
 
