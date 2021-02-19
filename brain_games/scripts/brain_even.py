@@ -4,6 +4,7 @@ from brain_games.cli import welcome, welcome_user
 from random import randint
 import prompt
 
+
 def print_task():
     print('Answer "yes" if the number is even, otherwise answer "no".')
 
@@ -26,7 +27,8 @@ def main():
         correct_answer = is_even(random_number)
 
         if (answer != correct_answer):
-            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(answer, correct_answer))
+            print("'{}' is wrong answer ;(. Correct answer was '{}'."
+                  .format(answer, correct_answer))
             print('Let\'s try again, {}!'.format(user_name))
             count_of_correct_answers = 0
         else:
@@ -34,5 +36,3 @@ def main():
             count_of_correct_answers = count_of_correct_answers + 1
 
     print('Congratulations, {}'.format(user_name))
-
-
