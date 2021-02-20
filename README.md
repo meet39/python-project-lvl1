@@ -10,3 +10,5 @@
 ### Demo "Brain Even" 
 [![asciicast](https://asciinema.org/a/qwfWhhhtOuPbCTHLpvbyF5fsi.svg)](https://asciinema.org/a/qwfWhhhtOuPbCTHLpvbyF5fsi)
 
+### Demo "Brain Calc"
+[![asciicast](https://asciinema.org/a/ZYeQCO2lLa0p2aneamFiyEPNu.svg)](https://asciinema.org/a/ZYeQCO2lLa0p2aneamFiyEPNu)
