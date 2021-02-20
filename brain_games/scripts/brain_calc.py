@@ -8,7 +8,8 @@ from random import choice
 def main():
     user_name = games_flow.start_game()
     games_flow.print_task(
-        'Answer "yes" if the number is even, otherwise answer "no".')
+        'Answer "yes" if the number is even, otherwise answer "no".'
+    )
 
     count_of_correct_answers = 0
     listOfSign = ['+', '-', '*']

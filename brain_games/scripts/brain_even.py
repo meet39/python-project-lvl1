@@ -10,7 +10,8 @@ def is_even(num):
 def main():
     user_name = games_flow.start_game()
     games_flow.print_task(
-        'Answer "yes" if the number is even, otherwise answer "no".')
+        'Answer "yes" if the number is even, otherwise answer "no".'
+    )
     count_of_correct_answers = 0
 
     while count_of_correct_answers < games_flow.req_correct_answers:
