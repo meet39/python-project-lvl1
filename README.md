@@ -12,3 +12,6 @@
 
 ### Demo "Brain Calc"
 [![asciicast](https://asciinema.org/a/ZYeQCO2lLa0p2aneamFiyEPNu.svg)](https://asciinema.org/a/ZYeQCO2lLa0p2aneamFiyEPNu)
+
+### Demo "Brain GCD"
+[![asciicast](https://asciinema.org/a/RJYFguepMlSPuCigfTbzxL2zS.svg)](https://asciinema.org/a/RJYFguepMlSPuCigfTbzxL2zS)
