@@ -2,9 +2,14 @@
 
 
 from brain_games.cli import welcome, welcome_user
+from random import randint
 import prompt
 
 req_correct_answers = 3
+
+
+def generate_int():
+    return randint(1, 100)
 
 
 def start_game():
