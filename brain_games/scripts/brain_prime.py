@@ -34,4 +34,3 @@ def main():
             count_of_correct_answers += 1
 
     games_flow.finish_game(user_name)
-
