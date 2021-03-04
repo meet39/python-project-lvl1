@@ -40,4 +40,4 @@ def print_good_result():
 
 
 def finish_game(user_name):
-    print('Congratulations, {}'.format(user_name))
+    print('Congratulations, {}!'.format(user_name))
