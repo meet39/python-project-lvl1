@@ -8,8 +8,8 @@ import prompt
 req_correct_answers = 3
 
 
-def generate_int():
-    return randint(1, 100)
+def generate_int(start=1, end=100):
+    return randint(start, end)
 
 
 def start_game():
