@@ -19,3 +19,7 @@
 
 ### Demo "Brain Progression"
 [![asciicast](https://asciinema.org/a/RBPEOWEXqLqMe748XFszZSSeQ.svg)](https://asciinema.org/a/RBPEOWEXqLqMe748XFszZSSeQ)
+
+
+### Demo "Brain Prime"
+[![asciicast](https://asciinema.org/a/csqNZwYc6j7IlWWTi5Wogl2fE.svg)](https://asciinema.org/a/csqNZwYc6j7IlWWTi5Wogl2fE)
